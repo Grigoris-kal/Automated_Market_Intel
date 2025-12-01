@@ -21,6 +21,7 @@ A fully automated market intelligence system that monitors competitors, detects 
 6. 💾 Historical Archiving - Dual archiving (JSON + Excel) with cache management
 
 🛠 Technology Stack & Libraries
+
 🔍 Web Scraping & Data Collection
 
 Scrapy	Professional publication scraping	
