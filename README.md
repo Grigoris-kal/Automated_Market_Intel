@@ -1,5 +1,3 @@
-
-
 # Automated_Market_Intel
 A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, and generates comprehensive reports using multiple AI-powered scraping technologies.
 🚀 Enhanced Market Intelligence System with Scrapy & Selenium
@@ -68,3 +66,11 @@ smtplib/email	Email delivery	Sends reports via Gmail SMTP with attachments
 JSON	Configuration management	Handles all settings and configurations
 
 🚀 Transform manual market research into automated intelligence with this multi-technology platform!
+
+## 📊 **System Output**
+
+![Market Intelligence Dashboard](output.jpg)
+
+*Automated competitive intelligence dashboard*
+
+
