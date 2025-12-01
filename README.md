@@ -6,7 +6,7 @@ Most of the system's "moving parts" are configured via JSON files, eliminating t
 
 🚀 Enhanced & Automated Market Intelligence System with Scrapy & Selenium
 
-📊 Multi-Automation Competitive Intelligence Platform
+📊 Multi-Automation Platform
 
 
 🔥 Core Automation Features
