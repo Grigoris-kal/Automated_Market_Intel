@@ -1,0 +1,166 @@
+{
+  "companies": {
+    "accell_group": {
+      "website": "https://www.accell-group.com",
+      "official_name": "Accell Group NV",
+      "search_terms": [
+        "Accell Group",
+        "Accell NV",
+        "Accell bicycles",
+        "Haibike",
+        "Ghost",
+        "Batavus",
+        "Sparta"
+      ],
+      "country": "Netherlands"
+    },
+    "pon_holdings": {
+      "website": "https://www.pon.com",
+      "official_name": "Pon Holdings BV",
+      "search_terms": [
+        "Pon Holdings",
+        "Pon Bicycles",
+        "Gazelle",
+        "Cannondale Europe",
+        "Cervélo",
+        "Santa Cruz"
+      ],
+      "country": "Netherlands"
+    },
+    "canyon_bicycles": {
+      "website": "https://www.canyon.com",
+      "official_name": "Canyon Bicycles GmbH",
+      "search_terms": [
+        "Canyon Bicycles",
+        "Canyon GmbH",
+        "Canyon bikes",
+        "Canyon Europe"
+      ],
+      "country": "Germany"
+    },
+    "giant_manufacturing": {
+      "website": "https://www.giant-bicycles.com",
+      "official_name": "Giant Manufacturing Co. Ltd.",
+      "search_terms": [
+        "Giant Bicycles",
+        "Giant Manufacturing",
+        "Giant Europe",
+        "Giant Netherlands"
+      ],
+      "country": "Taiwan/Netherlands"
+    },
+    "trek_bicycle": {
+      "website": "https://www.trekbikes.com",
+      "official_name": "Trek Bicycle Corporation",
+      "search_terms": [
+        "Trek Bicycles",
+        "Trek Europe",
+        "Trek Bikes EU",
+        "Trek Bicycle Corporation"
+      ],
+      "country": "USA/Europe"
+    },
+    "scott_sports": {
+      "website": "https://www.scott-sports.com",
+      "official_name": "Scott Sports SA",
+      "search_terms": [
+        "Scott Sports",
+        "Scott Bikes",
+        "Scott Europe",
+        "Scott SA"
+      ],
+      "country": "Switzerland"
+    },
+    "batavus": {
+      "website": "https://www.batavus.com",
+      "official_name": "Batavus",
+      "search_terms": [
+        "Batavus",
+        "Batavus Bicycles",
+        "Batavus Netherlands",
+        "Batavus Accell"
+      ],
+      "country": "Netherlands"
+    },
+    "orbita_bicicletas": {
+      "website": "https://www.orbita.pt",
+      "official_name": "Órbita – Bicicletas Portuguesas, Lda.",
+      "search_terms": [
+        "Órbita Bicicletas",
+        "Orbita Portugal",
+        "Orbita bicycles",
+        "Bicicletas Portuguesas"
+      ],
+      "country": "Portugal"
+    },
+    "gepida": {
+      "website": "https://www.gepida.hu",
+      "official_name": "Gepida",
+      "search_terms": [
+        "Gepida",
+        "Gepida Hungary",
+        "Gepida bicycles",
+        "Gepida EU"
+      ],
+      "country": "Hungary"
+    },
+    "kross_sa": {
+      "website": "https://www.kross.eu",
+      "official_name": "Kross SA",
+      "search_terms": [
+        "Kross Bicycles",
+        "Kross Poland",
+        "Kross SA",
+        "Kross Europe"
+      ],
+      "country": "Poland"
+    }
+  },
+  "industry_publications": {
+    "bike_europe": {
+      "website": "https://www.bike-eu.com",
+      "official_name": "Bike Europe",
+      "search_terms": [
+        "bicycle industry",
+        "bike market",
+        "cycling trade",
+        "e-bike market",
+        "bicycle trade show"
+      ],
+      "type": "trade_publication",
+      "search_url": "https://www.bike-eu.com/search/?query={company_name}",
+      "region": "Europe",
+      "focus": ["industry_news", "market_data", "trade_shows", "regulations"]
+    },
+    "cycling_industry_news": {
+      "website": "https://cyclingindustry.news",
+      "official_name": "Cycling Industry News",
+      "search_terms": [
+        "cycling business",
+        "bike industry",
+        "bicycle market",
+        "cycling trade",
+        "bike brands"
+      ],
+      "type": "news_site",
+      "search_url": "https://cyclingindustry.news/?s={company_name}",
+      "region": "Europe",
+      "focus": ["business_news", "mergers", "market_trends", "retail_news"]
+    },
+    "european_cyclists_federation": {
+      "website": "https://ecf.com",
+      "official_name": "European Cyclists' Federation",
+      "search_terms": [
+        "cycling policy",
+        "bicycle infrastructure",
+        "EU cycling",
+        "cycling advocacy",
+        "bike regulations"
+      ],
+      "type": "advocacy_organization",
+      "search_url": "https://ecf.com/search/{company_name}",
+      "region": "Europe",
+      "focus": ["policy", "infrastructure", "regulations", "advocacy"]
+    }
+  }
+}

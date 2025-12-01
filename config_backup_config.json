@@ -1,0 +1,4 @@
+{
+  "backup_enabled": true,
+  "backup_location": "../Historical_Data_Market_Intelligence_BACKUP"
+}

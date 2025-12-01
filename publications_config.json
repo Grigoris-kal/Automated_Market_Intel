@@ -1,0 +1,16 @@
+{
+  "publications": [
+    "Bike Europe",
+    "Cycling Industry News", 
+    "ECF",
+    "Bicycle Retailer",
+    "Cycling Weekly",
+    "VeloNews",
+    "BikeBiz"
+  ],
+  "scraping_settings": {
+    "max_articles_per_publication": 10,
+    "search_companies": true,
+    "monitor_frequency_days": 7
+  }
+}
