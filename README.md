@@ -26,16 +26,15 @@ In addition, most of the system's "moving parts" are configured via JSON files, 
 
 🔍 Web Scraping & Data Collection
 
-Scrapy	Professional publication scraping	
-Selenium	JavaScript-heavy sites & social media	
+Scrapy & Selenium	for web scraping and JavaScript-heavy sites & social media	
 BeautifulSoup4	HTML parsing & content extraction	Extracts text
 Requests	HTTP requests & session management	Fetches web content with headers and cookies
 
 🧠 Intelligence & Analysis
 
 TextBlob + VADER	Sentiment analysis	
-Regex (re)	Pattern matching	
-Collections.Counter	Frequency analysis Tracks keyword mentions and activity frequency
+Regex ((Regular Expressions))	Pattern matching	
+Collections high velocity data manipulation tasks 
 
 📈 Visualization & Reporting
 
